@@ -13,6 +13,13 @@
 		0634E33316C471A9005C10DF /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 0634E33116C471A9005C10DF /* Credits.rtf */; };
 		0634E33616C471A9005C10DF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0634E33516C471A9005C10DF /* AppDelegate.m */; };
 		0634E33916C471AA005C10DF /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0634E33716C471AA005C10DF /* MainMenu.xib */; };
+		0634E35916C4BDA5005C10DF /* up.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0634E35616C4BDA5005C10DF /* up.svg */; };
+		0634E35A16C4BDA5005C10DF /* up2.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0634E35716C4BDA5005C10DF /* up2.svg */; };
+		0634E35C16C4BE71005C10DF /* up.iconset in Resources */ = {isa = PBXBuildFile; fileRef = 0634E35B16C4BE71005C10DF /* up.iconset */; };
+		06721A6F170923C300D785A8 /* s0x.png in Resources */ = {isa = PBXBuildFile; fileRef = 06721A6B170923C300D785A8 /* s0x.png */; };
+		06721A70170923C300D785A8 /* s1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 06721A6C170923C300D785A8 /* s1x.png */; };
+		06721A71170923C300D785A8 /* ss0.svg in Resources */ = {isa = PBXBuildFile; fileRef = 06721A6D170923C300D785A8 /* ss0.svg */; };
+		06721A72170923C300D785A8 /* ss1.svg in Resources */ = {isa = PBXBuildFile; fileRef = 06721A6E170923C300D785A8 /* ss1.svg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +36,13 @@
 		0634E33416C471A9005C10DF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0634E33516C471A9005C10DF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		0634E33816C471AA005C10DF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		0634E35616C4BDA5005C10DF /* up.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = up.svg; sourceTree = "<group>"; };
+		0634E35716C4BDA5005C10DF /* up2.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = up2.svg; sourceTree = "<group>"; };
+		0634E35B16C4BE71005C10DF /* up.iconset */ = {isa = PBXFileReference; lastKnownFileType = folder.iconset; path = up.iconset; sourceTree = "<group>"; };
+		06721A6B170923C300D785A8 /* s0x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = s0x.png; sourceTree = "<group>"; };
+		06721A6C170923C300D785A8 /* s1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = s1x.png; sourceTree = "<group>"; };
+		06721A6D170923C300D785A8 /* ss0.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ss0.svg; sourceTree = "<group>"; };
+		06721A6E170923C300D785A8 /* ss1.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ss1.svg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +60,8 @@
 		0634E31316C471A9005C10DF = {
 			isa = PBXGroup;
 			children = (
+				0634E35B16C4BE71005C10DF /* up.iconset */,
+				0634E35416C4BDA5005C10DF /* resources */,
 				0634E32816C471A9005C10DF /* up */,
 				0634E32116C471A9005C10DF /* Frameworks */,
 				0634E31F16C471A9005C10DF /* Products */,
@@ -102,6 +118,19 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		0634E35416C4BDA5005C10DF /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				06721A6B170923C300D785A8 /* s0x.png */,
+				06721A6C170923C300D785A8 /* s1x.png */,
+				06721A6D170923C300D785A8 /* ss0.svg */,
+				06721A6E170923C300D785A8 /* ss1.svg */,
+				0634E35616C4BDA5005C10DF /* up.svg */,
+				0634E35716C4BDA5005C10DF /* up2.svg */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -156,6 +185,13 @@
 				0634E32D16C471A9005C10DF /* InfoPlist.strings in Resources */,
 				0634E33316C471A9005C10DF /* Credits.rtf in Resources */,
 				0634E33916C471AA005C10DF /* MainMenu.xib in Resources */,
+				0634E35916C4BDA5005C10DF /* up.svg in Resources */,
+				0634E35A16C4BDA5005C10DF /* up2.svg in Resources */,
+				0634E35C16C4BE71005C10DF /* up.iconset in Resources */,
+				06721A6F170923C300D785A8 /* s0x.png in Resources */,
+				06721A70170923C300D785A8 /* s1x.png in Resources */,
+				06721A71170923C300D785A8 /* ss0.svg in Resources */,
+				06721A72170923C300D785A8 /* ss1.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +333,7 @@
 				0634E33E16C471AA005C10DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
