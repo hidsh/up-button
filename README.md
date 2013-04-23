@@ -1,7 +1,4 @@
-up-button
-=========
-
-An "Up Button" for your Finder
+# up-button - An "Up Button" for your Finder on OS X.
 
 ![icon](http://autometa.ro/images/up-banner1.png)
 
