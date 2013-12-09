@@ -1,4 +1,4 @@
-CAUTION: This project is obsolete any longer.
+CAUTION: This project is obsoleted any longer.
 ------
 
 ![up-button - An "Up Button" for your Finder on OS X.](http://autometa.ro/images/up-banner1.png)
